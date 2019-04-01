@@ -11,5 +11,20 @@ body,html{
 .judul{
     font-family: ALISEO;
     font-size: 40px;
-    color: whitesmoke;
+    color: wheat;
+}
+.section2{
+    font-size: 24px;
+    padding: 30px 0px;
+    background: wheat;
+}
+.col-kiri{
+    background: black;
+    color: white;
+}
+.col-kanan{
+    background: white;
+}
+.section 3{
+    padding: 30px 0px;
 }
