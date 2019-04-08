@@ -3,7 +3,7 @@ body,html{
     margin:0 auto;
 }   
 .section1{
-    background: url(../img/maxresdefault.jpg);
+    background: url(../img/education3.jpg);
     width: 100%;
     height: 100%;
     text-align: center;
@@ -25,6 +25,15 @@ body,html{
 .col-kanan{
     background: white;
 }
-.section 3{
-    padding: 30px 0px;
+.section3{
+    padding: 50px 0px;
+    min-height: 360px;
+    background: wheat;
+}
+.link{
+    padding: 10px 15px;
+    color: blueviolet;
+}
+.link:hover{
+    background: pink;
 }
